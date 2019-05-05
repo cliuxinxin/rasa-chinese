@@ -1,3 +1,18 @@
+# 跑出英文的对话系统
+OK
+# 加上中文的spacy模型
+从这里下载
+https://eyun.baidu.com/s/3ggH5o4r
+如此安装
+pip install zh_core_web_sm-2.x.x.tar.gz
+连接zh
+spacy link zh_core_web_sm zh
+# 修改成为中文的对话系统
+
+# have fun
+
+感觉还行
+
 # Conversational AI with Rasa NLU and Core
 Demo application for the PyData Conference in Amsterdam 2018
 

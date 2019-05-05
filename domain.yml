@@ -22,19 +22,19 @@ actions:
 
 templates:
   utter_greet:
-  - text: "Hey! How are you?"
+  - text: "嘿，你感觉怎么样?"
 
   utter_cheer_up:
-  - text: "Here is something to cheer you up: {img_api_response}"
+  - text: "你看了可能会感觉不错: {img_api_response}"
 
   utter_did_that_help:
-  - text: "Did that help you?"
+  - text: "不知道我帮上忙没有?"
 
   utter_unclear:
-  - text: "I am not sure what you are aiming for."
+  - text: "我不知道你想干什么."
   
   utter_happy:
-  - text: "Great carry on!"
+  - text: "不错，继续加油!"
 
   utter_goodbye:
-  - text: "Bye"
+  - text: "再见"
