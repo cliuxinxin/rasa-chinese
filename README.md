@@ -3,16 +3,18 @@ OK
 # 加上中文的spacy模型
 从这里下载
 https://eyun.baidu.com/s/3ggH5o4r
-如此安装
+安装
 pip install zh_core_web_sm-2.x.x.tar.gz
-连接zh
-spacy link zh_core_web_sm zh
 # 修改成为中文的对话系统
-
+rasa-moodbot-demo-complete
+这个文档就是具体的实现
+nlu_md : 维护intents
+stories_md ： 维护stories
+domain_yml ： 维护domain
+维护好这几个文档，就能实现自己的对话了
 # have fun
 
-感觉还行
-
+以下是原来的文档可以自己看，也可以忽略
 # Conversational AI with Rasa NLU and Core
 Demo application for the PyData Conference in Amsterdam 2018
 
